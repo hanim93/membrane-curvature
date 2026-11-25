@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and cite the associated manuscript."
+title: "Membrane curvature and 3D cell-surface reconstruction code (OSCA2.3 wound-response project)"
+type: software
+authors:
+  - family-names: Kim
+    given-names: Hanim
+    affiliation: "Department of Chemistry, College of Natural Sciences, Seoul National University"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # EDIT: add if available
+# EDIT: add any additional code co-authors here in the same format
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-25"   # EDIT: set to the actual Zenodo publication date
+# doi: "10.5281/zenodo.XXXXXXX"   # EDIT: fill in once Zenodo assigns the DOI, then re-upload this file as a new version
+preferred-citation:
+  type: article
+  title: "EDIT: manuscript title"
+  authors:
+    - family-names: Kim
+      given-names: Hanim
+    # EDIT: full author list
+  journal: "EDIT: journal name"
+  year: 2026
+  # doi: "EDIT: manuscript DOI, once available"

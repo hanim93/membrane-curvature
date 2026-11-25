@@ -1,0 +1,18 @@
+# Union of packages needed across all four analysis/visualization folders in
+# this repository. Not every script needs every package (see each folder's
+# README for the minimal subset it needs).
+#
+# Versions are left unpinned here (pip will install the latest compatible
+# set); if you want to exactly pin versions for strict reproducibility, run
+# `pip freeze > requirements-lock.txt` after installing and confirming
+# everything runs in your own environment, and ship that alongside this file.
+
+numpy
+scipy
+pandas
+scikit-image
+tifffile
+matplotlib
+trimesh
+plotly
+pillow
