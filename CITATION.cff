@@ -11,7 +11,7 @@ authors:
 license: MIT
 version: "1.0.0"
 date-released: "2026-11-25"   # EDIT: set to the actual Zenodo publication date
-# doi: "10.5281/zenodo.XXXXXXX"   # EDIT: fill in once Zenodo assigns the DOI, then re-upload this file as a new version
+# doi: "10.5281/zenodo.24523924"   # EDIT: fill in once Zenodo assigns the DOI, then re-upload this file as a new version
 preferred-citation:
   type: article
   title: "EDIT: manuscript title"
